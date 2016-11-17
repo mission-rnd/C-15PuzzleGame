@@ -78,7 +78,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Main15Puzzle.cpp" />
+    <ClCompile Include="C15Puzzle.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BoardUtils.h" />
